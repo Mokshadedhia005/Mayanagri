@@ -1,0 +1,19 @@
+.nav {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: rgb(187, 202, 233);
+  color: rgb(33, 2, 72);
+  padding: 20px;
+  margin: 20px;
+}
+
+h1 {
+  text-align: left;
+}
+
+a {
+  text-align: right;
+  padding: 10px;
+  justify-content: flex-end;
+}
